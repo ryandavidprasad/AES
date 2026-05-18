@@ -1,4 +1,6 @@
 # EX-8-ADVANCED-ENCRYPTION-STANDARD ALGORITHM
+Ryan David Prasad 
+212224040282
 # Aim:
 To use Advanced Encryption Standard (AES) Algorithm for a practical application like URL Encryption.
 
@@ -23,7 +25,7 @@ void xorCrypt(char msg[], char key[])
 
 int main()
 {
-    char msg[] = "PRAVEENA";
+    char msg[] = "RyanDavid";
     char key[] = "secretkey";
 
     printf("Original: %s\n", msg);
@@ -36,7 +38,7 @@ int main()
 }
 ```
 # OUTPUT:
- <img width="1465" height="844" alt="image" src="https://github.com/user-attachments/assets/5eaabc3e-05cf-4553-b0fd-d0ccc439cdbd" />
+<img width="1845" height="976" alt="image" src="https://github.com/user-attachments/assets/42bd4ae9-a03d-4b07-abb1-db80cc17ed22" />
 
 # RESULT:
 using Advanced Encryption Standard (AES) Algorithm for a practical application like URL Encryption is successfully completed.
